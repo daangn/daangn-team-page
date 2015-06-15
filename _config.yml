@@ -1,14 +1,12 @@
 # Site settings
 title: N42
-email: your-email@domain.com
+email: n42team@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  N42라는 이름으로 스타트업을 새롭게 시작합니다.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://n42corp.com" # the base hostname & protocol for your site
+twitter_username: n42team
+github_username:  n42corp
 
 # Build settings
 markdown: kramdown
