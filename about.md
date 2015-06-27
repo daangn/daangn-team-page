@@ -4,13 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## 회사소개
-지역 커뮤니케이션, 지역 커뮤니티 분야에서 세상의 변화를 만들어가겠습니다.
-
-- [Twitter](https://twitter.com/n42team)
-- [Medium Blog](https://medium.com/n42-corp)
-- [GitHub](https://github.com/n42corp/)
-
 ## 기업문화
 우선 회사구성원이 행복해야 합니다.
 
@@ -21,11 +14,14 @@ permalink: /about/
 ### Gary
 - 공동대표
 - 서비스 기획
+- [Medium Blog](https://medium.com/@yongal4783)
 
 ### Paul
 - 공동대표
 - RoR 서버 개발
+- [jaehyun.kr](http://jaehyun.kr/), [Twitter](https://twitter.com/jaehyun)
 
 ### Seapy
 - RoR 서버 개발
 - iOS 클라이언트 개발
+- [seapy.com](http://seapy.com/), [Twitter](https://twitter.com/seapy)
