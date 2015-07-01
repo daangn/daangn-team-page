@@ -9,7 +9,7 @@ permalink: /about/
 
 모두가 즐겁게 일할 수 있는 문화를 다같이 만들어갑니다.
 
-## 팀 소개
+## 팀 소개 *<small>(3)</small>*
 
 ### Gary
 - 공동대표
@@ -25,3 +25,7 @@ permalink: /about/
 - RoR 서버 개발
 - iOS 클라이언트 개발
 - [seapy.com](http://seapy.com/), [Twitter](https://twitter.com/seapy)
+
+### YOU!
+- 함께 하실 맴버를 모십니다.
+- [Jobs](/jobs) 페이지를 보세요.
