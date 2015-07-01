@@ -28,7 +28,7 @@ permalink: /jobs/
 ### 디자인
 - 회사에 현재 디자이너가 없습니다. 주도적으로 디자인, 브랜드 등 회사의 모든 관련분야를 다루고 싶으신 분을 모십니다.
 - Android, iOS 앱 디자인 경험
-- Dribbble 계정 혹은 포트폴리오가 있으신 분
+- Dribbble, Behance 계정 혹은 포트폴리오가 있으신 분
 
 ## 지원 및 문의
 - 이메일: n42team@gmail.com
