@@ -27,5 +27,5 @@ permalink: /about/
 - [seapy.com](http://seapy.com/), [Twitter](https://twitter.com/seapy)
 
 ### YOU!
-- 함께 하실 맴버를 모십니다.
+- 함께 하실 멤버를 모십니다.
 - [Jobs](/jobs) 페이지를 보세요.
