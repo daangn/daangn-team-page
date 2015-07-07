@@ -1,12 +1,12 @@
 # Site settings
 title: N42
-email: n42team@gmail.com
+email: contact@n42corp.com
 description: > # this means to ignore newlines until "baseurl:"
   (주)엔사십이<br/>
   주소:서울특별시 서초구 서초대로 397 부띠크 모나코 A동 1608호
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://n42corp.com" # the base hostname & protocol for your site
-twitter_username: n42team
+url: "http://www.n42corp.com" # the base hostname & protocol for your site
+twitter_username: n42corp
 github_username:  n42corp
 
 # Build settings
