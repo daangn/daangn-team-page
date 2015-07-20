@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+description: 지역기반 커뮤니티 서비스인 판교장터 앱을 만들고 있는 스타트업 기업입니다. 저희튼 팀 구성원이 즐겁게 일할 수 있는 기업문화를 중요하게 생각하고 있습니다.
+
 ---
 
 ## 기업문화
