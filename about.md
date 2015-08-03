@@ -29,7 +29,8 @@ description: 지역기반 커뮤니티 서비스인 판교장터 앱을 만들�
 - [seapy.com](http://seapy.com/), [Twitter](https://twitter.com/seapy)
 
 ### Lia
-- 브랜딩 및 디자인
+- 디자인 및 브랜딩
+- 소개링크 준비중입니다^^
 
 ### YOU!
 - 함께 하실 멤버를 모십니다.
