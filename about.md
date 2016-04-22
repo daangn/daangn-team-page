@@ -32,8 +32,9 @@ N42는 모바일 세상에서 지역 커뮤니티, 커뮤니케이션 서비스�
 - [seapy.com](http://seapy.com/), [Twitter](https://twitter.com/seapy)
 
 ### Lia
-- 디자인 및 브랜딩
-- 소개링크 준비중입니다^^
+- 디자이너
+- 서비스디자인(UI/UX, BX)
+- [Lia gwon on Behance](https://www.behance.net/liagwon)
 
 ### Phoebe
 - RoR 서버 개발
