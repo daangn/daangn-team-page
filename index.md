@@ -11,7 +11,7 @@ description: 지역기반 커뮤니티 서비스인 당근마켓 앱을 만들�
 당근마켓는 중고거래에서 시작하지만 지도앱이나 지역맘 카페를 뛰어넘는 지역커뮤니티 및 정보 서비스를 지향합니다. 
 
 
-[![당근마켓로고](https://d3qlrgda07sb6k.cloudfront.net/attachments/store/lqpad/640/640/77d8ab1d6c1a52486697fdf666adc0be31ce95f3a310042032f8bb65b3ef/file.jpg)](https://daangn.com/)
+[![당근마켓로고](https://d3qlrgda07sb6k.cloudfront.net/assets/landing/logo-cf33b938724c9d01443d8d0611d110dbfbcff3e57744eb9c3b52d963db5e46d2.png)](https://daangn.com/)
 
 
 모바일 앱으로 지역기반 커뮤니케이션, 커뮤니티 분야에서 세상의 변화를 만들어가겠습니다. 
