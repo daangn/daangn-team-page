@@ -29,7 +29,7 @@ N42는 모바일 세상에서 지역 커뮤니티, 커뮤니케이션 서비스�
 ### Seapy
 - iOS 클라이언트 개발
 - RoR 서버 개발
-- [seapy.com](http://seapy.com/), [Twitter](https://twitter.com/seapy)
+- [seapy.com](http://seapy.com/), [개발블로그](https://code.iamseapy.com), [일상블로그](https://blog.iamseapy.com),  [Twitter](https://twitter.com/seapy)
 
 ### Lia
 - 디자이너
