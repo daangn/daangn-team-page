@@ -1,8 +1,8 @@
 # Site settings
-title: N42
-email: contact@n42corp.com
+title: 당근마켓
+email: market@daangn.com
 description: > # this means to ignore newlines until "baseurl:"
-  (주)엔사십이<br/>
+  (주)당근마켓<br/>
   주소: 성남시 분당구 판교역로 10번길 23 (판교지점)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.n42corp.com" # the base hostname & protocol for your site
