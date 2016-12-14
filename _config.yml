@@ -2,8 +2,8 @@
 title: 당근마켓
 email: market@daangn.com
 description: > # this means to ignore newlines until "baseurl:"
-  (주)당근마켓<br/>
-  주소: 성남시 분당구 판교역로 10번길 23 (판교지점)
+  Danggeun Market Inc.<br/>
+  주소: 성남시 분당구 판교역로 10번길 23. 201호 (판교지점)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.n42corp.com" # the base hostname & protocol for your site
 twitter_username: n42corp
