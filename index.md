@@ -22,6 +22,6 @@ description: 지역기반 커뮤니티 서비스인 당근마켓 앱을 만들�
 
 - [Medium Blog](https://medium.com/n42-corp)
 - [Twitter](https://twitter.com/n42corp)
-- [Facebook](https://www.facebook.com/n42corp)
+- [Facebook](https://www.facebook.com/danggeunmarket)
 - [GitHub](https://github.com/n42corp/)
 
