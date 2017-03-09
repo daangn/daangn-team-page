@@ -14,7 +14,7 @@ description: 지역기반 커뮤니티 서비스인 당근마켓 앱을 만들�
 우선 회사구성원이 행복해야 합니다.
 모두가 즐겁게 일할 수 있는 문화를 다같이 만들어갑니다.
 
-## 팀 소개 *<small>(8)</small>*
+## 팀 소개 *<small>(7)</small>*
 
 ### Gary
 - 공동대표
@@ -30,11 +30,6 @@ description: 지역기반 커뮤니티 서비스인 당근마켓 앱을 만들�
 - iOS 클라이언트 개발
 - RoR 서버 개발
 - [seapy.com](http://seapy.com/), [개발블로그](https://code.iamseapy.com), [일상블로그](https://blog.iamseapy.com),  [Twitter](https://twitter.com/seapy)
-
-### Lia
-- 디자이너
-- 서비스디자인(UI/UX, BX)
-- [Lia gwon on Behance](https://www.behance.net/liagwon)
 
 ### Phoebe
 - RoR 서버 개발
