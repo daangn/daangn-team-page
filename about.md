@@ -17,6 +17,7 @@ description: 지역기반 커뮤니티 서비스인 당근마켓 앱을 만들�
 - 2017.12 [[와이즈앱 비교하기 #74] 11월 중고 거래 앱 사용자 동향](http://platum.kr/archives/92856) - 플래텀
 - 2017.12 [넘쳐나는 안 입는 옷, 버리기 아깝다면? 동네 주민끼리 중고거래 앱 '당근마켓'](https://sharehows.com/applay-carrot-market) - 쉐어하우스
 - 2017.11 [[Startup’s Story #381] 한 달에 25번 켜는 중고 거래 앱](http://platum.kr/archives/91626) - 플래텀
+- 2017.09 [동네사람 직접 만나 중고품 직거래··사기당할 염려없으니'당근'이지](http://www.womaneconomy.kr/news/articleView.html?idxno=52662) - 여성경제신문
 - 2017.04 [[대한민국 모바일 어워드 2017 '4월의 모바일'] 이웃과 직접…모바일 중고거래 '당근마켓'](http://news.mt.co.kr/mtview.php?no=2017042613580872654) - 머니투데이
 - 2017.03 ["차세대 벼룩시장을 꿈꾸며"... 지역 중고 거래 플랫폼 '당근마켓'](http://www.kinews.net/news/articleView.html?idxno=105211) - 키뉴스
 - 2017.03 [동네 주민 이어주는 중고장터 '당근마켓'](http://view.asiae.co.kr/news/view.htm?idxno=2017031715320315859) - 아시아경제
