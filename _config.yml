@@ -1,5 +1,5 @@
-url: https://n42corp.github.io
-baseurl: /n42corp.github.io/
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://team.daangn.com" # the base hostname & protocol for your site
 
 # Site settings
 title: Danggeun Market Inc.
