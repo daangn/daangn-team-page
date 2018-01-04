@@ -1,15 +1,160 @@
+url: https://n42corp.github.io
+baseurl: /n42corp.github.io/
+
 # Site settings
-title: (주)당근마켓
+title: Danggeun Market Inc.
 email: market@daangn.com
-description: > # this means to ignore newlines until "baseurl:"
-  Danggeun Market Inc.<br/>
-  주소: 성남시 분당구 판교역로 10번길 23. 201호 (판교지점)
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://team.daangn.com" # the base hostname & protocol for your site
-twitter_username: n42corp
-github_username:  n42corp
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+history:
+- title: Google Play 2017 올해를 빛낸 인디 앱 선정
+  date: '2017.12'
+  pic: google
+
+- title: 아이폰, 안드로이드 합쳐서 100만 다운로드 달성
+  date: '2017.10'
+  pic: million
+
+- title: "'(주)엔사십이'에서 '(주)당근마켓'으로 사명 변경'"
+  date: '2016.12'
+  pic: business
+
+- title: "케이큐브 벤처스, 캡스톤파트너스, 스트롱벤처스 투자사로 부터 13억 투자유치(Seed round)"
+  date: '2016.12'
+  pic: investment
+
+- title: "'판교장터'에서 '당근마켓'으로 서비스명 변경, 분당 지역 오픈, 전화번호 기반으로 변경"
+  date: '2015.10'
+  pic: icon
+
+- title: "판교장터 아이폰, 안드로이드 서비스 오픈 (직장인 기반) 및 법인 '(주)엔사십이' 설립"
+  date: '2015.07'
+  pic: start
+
+media:
+- content: "[와이즈앱 비교하기 #74] 11월 중고 거래 앱 사용자 동향"
+  date: '2017.12'
+  url: http://platum.kr/archives/92856
+
+- content: "넘쳐나는 안 입는 옷, 버리기 아깝다면? 동네 주민끼리 중고거래 앱 '당근마켓'"
+  date: '2017.12'
+  url: https://sharehows.com/applay-carrot-market
+
+- content: "[Startup’s Story #381] 한 달에 25번 켜는 중고 거래 앱"
+  date: '2017.11'
+  url: http://platum.kr/archives/91626
+
+- content: 동네사람 직접 만나 중고품 직거래··사기당할 염려없으니'당근'이지
+  date: '2016.12'
+  url: http://www.womaneconomy.kr/news/articleView.html?idxno=52662
+
+- content: "[대한민국 모바일 어워드 2017 '4월의 모바일'] 이웃과 직접…모바일 중고거래 '당근마켓'"
+  date: '2017.04'
+  url: http://news.mt.co.kr/mtview.php?no=2017042613580872654
+
+- content: "'차세대 벼룩시장을 꿈꾸며'... 지역 중고 거래 플랫폼 '당근마켓'"
+  date: '2017.03'
+  url: http://view.asiae.co.kr/news/view.htm?idxno=2017031715320315859
+
+- content: "동네 주민 이어주는 중고장터 '당근마켓'"
+  date: '2015.07'
+  url: http://platum.kr/archives/92856
+
+- content: "36화 – 중고로운 평화나라이야기 (중고장터, G. 곰누나)"
+  date: '2016.02'
+  url: http://zagavarzeon.com/36%ED%99%94-%EC%A4%91%EA%B3%A0%EB%A1%9C%EC%9A%B4-%ED%8F%89%ED%99%94%EB%82%98%EB%9D%BC%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%A4%91%EA%B3%A0%EC%9E%A5%ED%84%B0-g-%EA%B3%B0%EB%88%84%EB%82%98/
+
+- content: "[판교의 진화]③판교밸리의 하루...'판교만의 문화가 최고죠'"
+  date: '2016.01'
+  url: http://www.edaily.co.kr/news/news_detail.asp?newsId=01338246612521656
+
+# Team names, titles and social links
+people:
+- name: 김재현(Paul)
+  row: 1
+  pic: paul
+  position: Co CEO (Data Analysis)
+  social:
+    - title: home
+      url: http://jaehyun.kr/
+    - title: twitter
+      url: https://twitter.com/jaehyun
+
+- name: 김용현(Gary)
+  row: 1
+  pic: gary
+  position: Co CEO (Project Management)
+  social:
+    - title: medium
+      url: https://medium.com/@yongal4783
+    - title: facebook
+      url: https://www.facebook.com/yongal4783
+
+- name: 정창훈(Seapy)
+  row: 1
+  pic: seapy
+  position: CTO (iOS Developer)
+  social:
+    - title: home
+      url: https://code.iamseapy.com/
+    - title: twitter
+      url: https://twitter.com/seapy
+
+- name: 정우람(Kai)
+  row: 2
+  pic: kai
+  position: Android Developer
+  social:
+
+- name: 박선영(Phoebe)
+  row: 2
+  pic: phoebe
+  position: Server Developer
+  social:
+
+- name: 이보현(Blair)
+  row: 2
+  pic: blair
+  position: Marketer
+  social:
+
+- name: 전무익(Ed)
+  row: 3
+  pic: ed
+  position: Machine Learning
+  social:
+
+- name: 정란희(Lucy)
+  row: 3
+  pic: lucy
+  position: UI/UX Designer
+  social:
+
+- name: 김현학(Wayne)
+  row: 3
+  pic: wayne
+  position: Server Developer
+  social:
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: envelope
+    url: mailto:market@daangn.com
+  - title: medium
+    url: https://medium.com/n42-corp
+  - title: facebook
+    url: https://www.facebook.com/daangn/
+  - title: github
+    url: https://github.com/n42corp
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
+permalink: pretty
 
-image: https://pangyo.towneers.com/images/icons/Icon_512x512.png
+about: "당근마켓의 비전은 “동네 이웃 간 활발한 교류와 연결을 통해 사람들의 삶을 더 행복하게 만드는 것”이에요.</br>지역 내에서 발생하는 모든 개인 간의 거래정보(중고거래, 구인, 지역생활정보 등)가 모이고</br>그 정보들이 따뜻한 문화 안에서 교류되는 세상을 꿈꾸고 있어요.</br>당근마켓은 중고거래에서 시작하지만 지역커뮤니티 및 정보 서비스를 지향합니다."
+

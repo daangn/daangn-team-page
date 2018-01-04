@@ -1,0 +1,37 @@
+<!-- About Section -->
+    <section id="history" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">History</h2>
+                    <h3 class="section-subheading text-muted">"창업이후 2년 동안 꾸준히 성장하고 있어요."</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        {% for history in site.history %}
+                        {% assign mod = forloop.index0 | modulo: 2 %}
+                        {% if mod == 0 %}
+                        <li>
+                        {% else %}
+                        <li class="timeline-inverted">
+                        {% endif %}
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/history/{{ history.pic }}.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading text-blacked">
+                                    <h4>{{ history.date }}</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">{{ history.title }}</p>
+                                </div>
+                            </div>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
