@@ -70,6 +70,8 @@ media:
   date: '2016.01'
   url: http://www.edaily.co.kr/news/news_detail.asp?newsId=01338246612521656
 
+team_description: "\"당근마켓은 여러 분야의 뛰어난 인재들이 모여 즐겁게 일하고 있어요.\""
+
 # Team names, titles and social links
 people:
 - name: 김재현(Paul)
