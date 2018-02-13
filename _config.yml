@@ -34,6 +34,10 @@ history:
   pic: start
 
 media:
+- content: "(영상) YTN사이언스 녹색의 꿈에 당근마켓 소개된 영상"
+  date: '2018.02'
+  url: https://www.youtube.com/watch?v=Ii5flAhtM5c
+
 - content: "[와이즈앱 비교하기 #74] 11월 중고 거래 앱 사용자 동향"
   date: '2017.12'
   url: http://platum.kr/archives/92856
@@ -45,6 +49,10 @@ media:
 - content: "[Startup’s Story #381] 한 달에 25번 켜는 중고 거래 앱"
   date: '2017.11'
   url: http://platum.kr/archives/91626
+
+- content: "(영상) MBC 경제매거진M에 소개된 당근마켓"
+  date: '2017.08'
+  url: https://www.youtube.com/watch?v=rnP7GeYq18Q&t=107s
 
 - content: 동네사람 직접 만나 중고품 직거래··사기당할 염려없으니'당근'이지
   date: '2016.12'
