@@ -156,6 +156,12 @@ people:
   position: Server Developer
   social:
 
+- name: 김대권(Ben)
+  row: 4
+  pic: ben
+  position: Software Engineer
+  social:
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: envelope
