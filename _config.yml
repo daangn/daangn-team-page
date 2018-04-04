@@ -143,8 +143,12 @@ people:
 - name: 이보현(Blair)
   row: 2
   pic: blair
-  position: Marketer
+  position: Marketing Manager
   social:
+    - title: instagram 
+      url: https://www.instagram.com/bbohyuning/
+    - title: facebook
+      url: https://www.facebook.com/bohyun.lee.73
 
 - name: 전무익(Ed)
   row: 3
