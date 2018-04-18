@@ -2,12 +2,12 @@
 color:
   primary: f76707
   secondary: f76707   
-  secondary-dark: 333
-  muted: 777
+  secondary-dark: 495057
+  muted: 868e96
   white: ffffff
-  blacked: 424242
+  blacked: 212529
 
 # Font Families
 font:
-  primary: '"Nanum Gothic", sans-serif'
-  secondary: '"Nanum Gothic", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: '"NanumSquare", "Nanum Gothic", sans-serif'
+  secondary: '"NanumSquare", "Nanum Gothic", "Helvetica Neue", Helvetica,Arial,sans-serif'

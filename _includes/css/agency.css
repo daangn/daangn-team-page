@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Nanum Gothic", "Malgun Gothic",Nanum Gothic,sans-serif;
+    font-family: 'NanumSquare', "Nanum Gothic", "Malgun Gothic", Nanum Gothic, sans-serif;
     color: #{{ site.data.template.color.white }};
 }
 
@@ -184,7 +184,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default {
-    border-color: transparent;
+    /*border-color: transparent;*/
     background-color: #fff;
 }
 
@@ -249,9 +249,9 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:768px) {
     .navbar-default {
-        padding: 25px 0;
+        padding: 10px 0;
         border: 0;
-        background-color: transparent;
+        /*background-color: transparent;*/
     }
 
     .navbar-default .navbar-brand {
@@ -286,6 +286,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    margin-top: 80px;
 }
 
 header .intro-text {
@@ -642,7 +643,7 @@ section h3.section-subheading {
 
 .team-member h4 {
     margin-top: 25px;
-    margin-bottom: 0;
+    margin-bottom: 4px;
     text-transform: none;
 }
 
@@ -845,11 +846,13 @@ ul.social-buttons li a:active {
 ::-moz-selection {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.white }};
 }
 
 ::selection {
     text-shadow: none;
     background: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.white }};
 }
 
 img::selection {
@@ -862,4 +865,16 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.media-item {
+    margin-left: 4px;
+}
+
+.navbar-brand {
+    padding: 8px;
+}
+
+.navbar-brand .logo-image {
+    width: 120px;
 }
