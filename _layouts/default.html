@@ -11,7 +11,11 @@
     {% include history.html %}
     {% include media.html %}
     {% include team.html %}
-    <!-- {% include contact.html %} -->
+
+    {% assign positions = site.joinus %}
+    {% if positions %}
+        {% include joinus.html %}
+    {% endif %}
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}

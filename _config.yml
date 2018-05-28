@@ -42,6 +42,14 @@ history:
   pic: start
 
 media:
+- content: "[IT&FUTURE]김용현·김재현 당근마켓 공동대표 \"동네 이웃과 중고거래, 믿을만 하겠죠\""
+  date: '2018.05'
+  url: http://view.asiae.co.kr/news/view.htm?idxno=2018052810355950858
+
+- content: "소프트뱅크벤처스 스타트업 \"내일의 '유니콘' 바로 나\""
+  date: '2018.05'
+  url: http://www.zdnet.co.kr/news/news_view.asp?artice_id=20180517160809&type=det&re=
+
 - content: "소프트뱅크벤처스, 당근마켓에 45억원 투자"
   date: '2018.04'
   url: http://www.zdnet.co.kr/news/news_view.asp?artice_id=20180424082614&type=det&re=
@@ -90,17 +98,9 @@ media:
   date: '2016.04'
   url: http://www.etnews.com/20160322000150
 
-- content: "36화 – 중고로운 평화나라이야기 (중고장터, G. 곰누나)"
-  date: '2016.02'
-  url: http://zagavarzeon.com/36%ED%99%94-%EC%A4%91%EA%B3%A0%EB%A1%9C%EC%9A%B4-%ED%8F%89%ED%99%94%EB%82%98%EB%9D%BC%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%A4%91%EA%B3%A0%EC%9E%A5%ED%84%B0-g-%EA%B3%B0%EB%88%84%EB%82%98/
-
 - content: "`카카오 키즈` 스타트업, 인터넷생태계에 새 씨앗 뿌린다"
   date: '2016.01'
   url: http://www.etnews.com/20160126000113
-
-- content: "[판교의 진화]③판교밸리의 하루...'판교만의 문화가 최고죠'"
-  date: '2016.01'
-  url: http://www.edaily.co.kr/news/news_detail.asp?newsId=01338246612521656
 
 - content: "동네 주민 이어주는 중고장터 '당근마켓'"
   date: '2015.07'
@@ -185,6 +185,23 @@ people:
   pic: ben
   position: Software Engineer
   social:
+
+joinus_description: "\"당근마켓 서비스를 즐겁게 만들어갈 멋진 동료를 찾고 있어요.\""
+
+joinus:
+- position: 당근마켓 마케터
+  pic: recruit-marketer
+  sub-position: 
+    - content: 당근마켓 마케터 채용
+      url: https://www.rocketpunch.com/jobs/41352/%EB%A7%88%EC%BC%80%ED%84%B0
+
+- position: 당근마켓 개발자
+  pic: recruit-developer
+  sub-position: 
+    - content: 당근마켓 백엔드 서버 개발자(Ruby on Rails)
+      url: https://www.rocketpunch.com/jobs/41350/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90Ruby-on-Rails
+    - content: 당근마켓 iOS 개발자(swift) 개발자 채용
+      url: https://www.rocketpunch.com/jobs/41349/iOS-%EA%B0%9C%EB%B0%9C%EC%9E%90
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
