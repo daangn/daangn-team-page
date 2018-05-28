@@ -9,8 +9,8 @@ description: "당근마켓 팀 페이지 입니다."
 about: "당근마켓의 비전은 “동네 이웃 간 활발한 교류와 연결을 통해 사람들의 삶을 더 행복하게 만드는 것”이에요.</br>지역 내에서 발생하는 모든 개인 간의 거래정보(중고거래, 구인, 지역생활정보 등)가 모이고</br>그 정보들이 따뜻한 문화 안에서 교류되는 세상을 꿈꾸고 있어요.</br>당근마켓은 중고거래에서 시작하지만 지역커뮤니티 및 정보 서비스를 지향합니다."
 
 history:
-- title: '소프트뱅크 벤처스, 카카오벤처스, 스트롱벤처스로 부터 57억 투자유치(Series B Round)'
-  date: '2018.04'
+- title: '소프트뱅크 벤처스, 카카오벤처스, 스트롱벤처스, 캡스톤파트너스로부터 68억 투자유치(Series B Round)'
+  date: '2018.05'
   pic: investment2
   
 - title: '가입자 100만 달성, 지역광고주를 위한 광고주센터(https://ad.daangn.com) 오픈'
@@ -212,10 +212,10 @@ social:
   - title: facebook
     url: https://www.facebook.com/daangn/
   - title: github
-    url: https://github.com/n42corp
+    url: https://github.com/daangn
 
 # 회사 정보
-address: 성남시 분당구 판교역로 10번길 23. 201호 (판교지점)
+address: 서울특별시 서초구 반포대로28길 20 두원빌딩 3층
 
 # Build settings
 markdown: kramdown
