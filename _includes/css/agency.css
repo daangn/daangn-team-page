@@ -284,7 +284,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.png');
+    background-image: url('https://s3.ap-northeast-2.amazonaws.com/daangn-static-web/images/homepage/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -667,7 +667,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: url('https://s3.ap-northeast-2.amazonaws.com/daangn-static-web/images/homepage/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
