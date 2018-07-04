@@ -199,8 +199,8 @@ joinus:
   sub-position: 
     - content: 로켓펀치 채용 페이지
       url: https://www.rocketpunch.com/companies/daangn/jobs
-    - content: people@daangn.com 이메일 지원
-      url: mailto:people@daangn.com
+    - content: people.dev@daangn.com 이메일 지원
+      url: mailto:people.dev@daangn.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
