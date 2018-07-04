@@ -190,22 +190,17 @@ people:
   position: Software Engineer
   social:
 
-joinus_description: "\"당근마켓 서비스를 즐겁게 만들어갈 멋진 동료를 찾고 있어요.\""
+joinus_description: "\"당근마켓 서비스를 즐겁게 만들어갈 멋진 동료를 찾고 있어요. 상시 채용중입니다.\""
 
 joinus:
-- position: 당근마켓 마케터
-  pic: recruit-marketer
-  sub-position: 
-    - content: 당근마켓 마케터 채용
-      url: https://www.rocketpunch.com/jobs/41352/%EB%A7%88%EC%BC%80%ED%84%B0
 
-- position: 당근마켓 개발자
+- position: 서버 개발자, 머신러닝 개발자
   pic: recruit-developer
   sub-position: 
-    - content: 당근마켓 백엔드 서버 개발자(Ruby on Rails)
-      url: https://www.rocketpunch.com/jobs/41350/%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90Ruby-on-Rails
-    - content: 당근마켓 iOS 개발자(swift) 개발자 채용
-      url: https://www.rocketpunch.com/jobs/41349/iOS-%EA%B0%9C%EB%B0%9C%EC%9E%90
+    - content: 로켓펀치 채용 페이지
+      url: https://www.rocketpunch.com/companies/daangn/jobs
+    - content: people@daangn.com 이메일 지원
+      url: mailto:people@daangn.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
