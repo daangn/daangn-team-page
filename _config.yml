@@ -197,9 +197,9 @@ joinus:
 - position: 서버 개발자, 머신러닝 개발자
   pic: recruit-developer
   sub-position: 
-    - content: 로켓펀치 채용 페이지
+    - content: 로켓펀치 내 당근마켓 채용 페이지
       url: https://www.rocketpunch.com/companies/daangn/jobs
-    - content: people.dev@daangn.com 이메일 지원
+    - content: 또는 people.dev@daangn.com 이메일 지원
       url: mailto:people.dev@daangn.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
