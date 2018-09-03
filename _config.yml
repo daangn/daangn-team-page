@@ -144,9 +144,11 @@ people:
   position: CTO (Software Engineer)
   social:
     - title: home
-      url: https://code.iamseapy.com/
+      url: https://www.iamseapy.com/
     - title: twitter
       url: https://twitter.com/seapy
+    - title: youtube
+      url: https://www.youtube.com/c/seapy
 
 - name: 정우람(Kai)
   row: 2
