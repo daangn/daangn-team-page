@@ -196,6 +196,34 @@ people:
   position: Software Engineer
   social:
 
+- name: 한재원(Jeff)
+  row: 4
+  pic: jeff
+  position: Brand Marketer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/artistonea
+    - title: instagram 
+      url: https://www.instagram.com/hanjae_92/
+
+- name: 황병국(Marty)
+  row: 4
+  pic: marty
+  position: iOS Developer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/bkhwang82
+    - title: home
+      url: https://magi82.github.io/
+
+- name: 최정윤(Nicole)
+  row: 5
+  pic: nicole
+  position: Performance Marketer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/jy.choi.777
+
 joinus_description: "\"당근마켓 서비스를 즐겁게 만들어갈 멋진 동료를 찾고 있어요. 상시 채용중입니다.\""
 
 joinus:
