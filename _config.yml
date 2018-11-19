@@ -42,9 +42,13 @@ history:
   pic: start
 
 media:
-- content: "사기꾼·짝퉁 원천 차단…카카오 출신이 만든 획기적 중고거래"
+- content: 'MBN방송 현실남녀2 14회 - 정가은이 사용하는 당근마켓'
   date: '2018.11'
-  url: https://1boon.kakao.com/jobsN/5bed2a52ed94d20001b10d92
+  url: https://www.youtube.com/watch?v=zk5aSjRIddM&feature=youtu.be&t=402
+
+- content: "택배·퀵으로 거래할 수 없는 중고거래 서비스의 정체"
+  date: '2018.11'
+  url: http://naver.me/F3rNgo9H
 
 - content: "‘당근마켓’은 어떻게 우리 동네의 핫한 ‘온라인 벼룩 시장’이 됐을까?"
   date: '2018.10'
