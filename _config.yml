@@ -246,6 +246,24 @@ people:
     - title: facebook
       url: https://www.facebook.com/jy.choi.777
 
+- name: 이웅원(Matthew)
+  row: 5
+  pic: matthew
+  position: Machine Learning Engineer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/dnddnjs
+
+- name: 정재필(Sean)
+  row: 5
+  pic: sean
+  position: Web Front-end Software Engineer
+  social:
+    - title: Twitter
+      url: https://twitter.com/J2P_
+    - title: Blog
+      url: http://blog.j2p.io/
+
 joinus_description: "\"당근마켓 서비스를 즐겁게 만들어갈 멋진 동료를 찾고 있어요. 상시 채용중입니다.\""
 
 joinus:
