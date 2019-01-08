@@ -264,6 +264,12 @@ people:
     - title: home
       url: http://blog.j2p.io/
 
+- name: 박상진(Willy)
+  row: 6
+  pic: willy
+  position: Software Engineer
+  social:
+
 joinus_description: "\"당근마켓 서비스를 즐겁게 만들어갈 멋진 동료를 찾고 있어요. 상시 채용중입니다.\""
 
 joinus:
